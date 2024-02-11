@@ -7,5 +7,5 @@ public:
 	void create_temp(std::string path);
 	const char* get_temp_path();
 private:
-	const char* temp_path = "C:\\Users\\Public\\Music\\save.txt";
+	const char* temp_path = "C:\\Users\\Public\\Music\\save.dat";
 };
